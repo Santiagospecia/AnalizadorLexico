@@ -18,6 +18,7 @@ int main (void) {
     return 0;
 }
 /* Comentario en bloque */ 
+
 double exec (double valor) {
     int i = 10;
 
